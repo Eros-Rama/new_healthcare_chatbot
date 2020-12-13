@@ -45,7 +45,7 @@ With the help of Postman, with the link 'http://127.0.0.1:5000/ask' and a POST m
 
 ```
 
-And as output, the API similarly returns a Json ojbet as below:
+And as output, the API similarly returns a Json object as below:
 
 ```
 {
