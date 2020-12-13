@@ -90,4 +90,4 @@ class DB(object):
 
 
 
-By the developer team of Bots Factory
+By Zakaria Mejdoul : team developer  of Bots Factory Company
