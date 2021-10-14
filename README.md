@@ -1,4 +1,4 @@
-# RH_Chatbot_backend
+# RH Chatbot Backend
 
 RH_Chatbot_backend is a Python API used to manage the backend (questions / answers) of the application called "RH BOT".
 
