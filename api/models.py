@@ -10,7 +10,7 @@ class NluObjectWithEntity(object):
         self.intent = intent
         self.entity = entity
         self.response = response
-
+    js = 190
     def json(self):
         return {
             'collection': self.collection,
